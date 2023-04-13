@@ -13,7 +13,7 @@
     "lint": "tslint -c tslint.json -p tsconfig.json"
   },
   "dependencies": {
-    "@here/maps-api-for-javascript": "^1.39.0",
+    "@here/maps-api-for-javascript": "^1.40.0",
     "@types/d3": "5.7.2",
     "d3": "^7.8.3",
     "powerbi-visuals-api": "5.1.0",
