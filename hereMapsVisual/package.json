@@ -1,6 +1,7 @@
 {
-  "name": "visual",
-  "description": "default_template_value",
+  "name": "HERE Maps API for JS visual for Power BI",
+  "description": "Proof of concept of the integration of HERE Maps API for JS as visual component in Power BI",
+  "author": "Daniele Bacarella",
   "repository": {
     "type": "default_template_value",
     "url": "default_template_value"
@@ -14,8 +15,6 @@
   },
   "dependencies": {
     "@here/maps-api-for-javascript": "^1.40.0",
-    "@types/d3": "5.7.2",
-    "d3": "^7.8.3",
     "powerbi-visuals-api": "5.1.0",
     "powerbi-visuals-utils-formattingmodel": "5.0.0"
   },
