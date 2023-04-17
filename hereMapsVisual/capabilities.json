@@ -35,6 +35,6 @@
         }
     ],
     "privileges": [
-      { "name": "WebAccess", "essential": true, "parameters": [ "https://*.here.com", "https://*.hereapi.com"] }
+      { "name": "WebAccess", "essential": true, "parameters": [ "https://*.here.com", "https://*.hereapi.com", "https://raw.githubusercontent.com"] }
     ]
 }
